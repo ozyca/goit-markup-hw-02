@@ -28,6 +28,9 @@ color: #404bbf;
 .menu-link:focus{
     color: #404bbf;
 }
+.contact-info {
+    font-style: normal;
+}
 .contact-link {
     text-decoration: none;
     font-size: 16px;
