@@ -1,4 +1,4 @@
-.body { 
+.site-body{ 
     font-family: "Roboto",sans-serif;
     color:#434455;
     background-color:#FFFFFF;
@@ -13,7 +13,7 @@
     text-transform: uppercase;
     color: #4d5ae5;
 }
-.studio-text {
+.studio-text{
     color: #2e2f42;
 }
 .menu-link {
@@ -23,26 +23,26 @@
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
-.menu-link:hover {
+.menu-link:hover{
 color: #404bbf;
 }
 .menu-link:focus{
     color: #404bbf;
 }
-.contact-info {
+.contact-info{
     font-style: normal;
 }
-.contact-link {
+.contact-link{
     text-decoration: none;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
 }
-.contact-link:hover {
+.contact-link:hover{
 color: #404bbf;
 }
-.contact-link:focus {
+.contact-link:focus{
 color: #404bbf;
 }
 /*section 1 */
@@ -135,4 +135,25 @@ color: #404bbf;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
+}
+/*footer*/
+.site-footer{
+    background-color: #2e2f42;
+}
+.footer-logo{
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #4d5ae5;
+}
+.logo-highlight{
+    color: #f4f4fd;
+}
+.footer-text{
+    line-height: 1.5;
+    color: #F4F4FD;
+    letter-spacing: 0.02em;
 }
