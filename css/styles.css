@@ -73,3 +73,15 @@ color: #404bbf;
 .order-button:focus{
     background-color: #404BBF;
 }
+.title{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+.paragraph{
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
